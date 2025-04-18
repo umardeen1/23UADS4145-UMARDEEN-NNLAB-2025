@@ -12,8 +12,7 @@ For this experiment, an MLP is designed with one hidden layer to solve the XOR f
 - **Activation Function**: Step function (binary output)
 - **Output Layer**: 1 perceptron (final XOR output)
 
-## 3. Python Implementation
-*(Code implementation goes here)*
+## 3. Python Implementation 
 
 ## 4. Description of Code
 ### Perceptron Class
